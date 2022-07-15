@@ -1,0 +1,10 @@
+num1 = float(input("Enter the number "))
+num2 = float(input("Enter the number "))
+
+print("Choose which operation you want to do")
+print("1 = Addition")
+print("2 = Subtraction")
+print("3 = Multiplication")
+print("4 = Division")
+print("5 = Find Remainder")
+print("6 = Square of the number")
